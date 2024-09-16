@@ -1,0 +1,42 @@
+{
+  "name": "absensi-spreadsheet",
+  "version": "5.0.0",
+  "private": true,
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "dependencies": {
+    "@emotion/react": "latest",
+    "@emotion/styled": "latest",
+    "@mui/material": "^5.13.5",
+    "@mui/styles": "^5.13.2",
+    "axios": "^1.4.0",
+    "buffer": "^6.0.3",
+    "date-fns": "^2.30.0",
+    "google-spreadsheet": "^3.3.0",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-scripts": "4.0.3"
+  },
+  "devDependencies": {
+    "buffer": "npm:buffer@6.0.3",
+    "crypto": "npm:crypto-browserify@3.12.0",
+    "stream": "npm:stream-browserify@3.0.0",
+    "util": "npm:util@0.12.5"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

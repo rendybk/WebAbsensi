@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "local-scope-390206",
+  "private_key_id": "31c34a7125747c6d9e7ebf9bf5e2710c789a67f4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC3gaZo8rd41MCK\nqGtkf3W53ud1bAO9hkQMX3+wz4xu04Z5LpMfkU7gMqrkmUTJzp+SE+dE7pLglHoG\noRdIinzKIWoA4v/IQWrdtC+lhbkBy81I4zfCmJ5YKmO1Jtt6Bln/AfE219H4zddr\nbYRx5gkmq8ZG/HUU8rJ5ayByIIMz6GKTx1OA3P62l4FpqQ6Bt7LBHXHYf+UtQTmp\nNXKXN50G6e9gD5G+zE1aOEyxvOqvI2lEQFW60UUUa4udb+xcSLaVMTrGIjO/fq9f\nd4B7G1g9ezJ+3gMBvaoxAR2qgHPUISLAN601paWM/0Py2P9v1cVUDYmdHFmUhnZV\nZAkaqOf3AgMBAAECggEAAOwwc3+g54UeULQnEhLH+z7BKCh6XlYR+oPyZuesO5Rp\nrStMRxDadisbC9ova9pTmA7sjz6p02I7uNPPg6hal0OSvl1lztJxYJr60Fi7ROSK\n7C5kReCxjxzrcmo3GUZ15l/SoCV2o0sZpasfytjOu/iKHyo+xnOv7QdaWuiJ8FVd\nFfrxHB7npKUwPQNZt83DAhQecCvqoQj6/bqrPlWEMG6a7IrG6IgvLarNKEugY55y\nVZakC2miAohyJmYPcFi/umRsd3t8ejZYIsIyMTMfB2aMCvtJElHj6B4b41QoJps8\ngVGKffOdW/6L0uw4KdJh3MZ+wy0wLaEMIRG2YwdKOQKBgQDpvhP+hcDzIYsq7NsF\n7vJjpUeUjDd/U+KRwJc9vPTXbUJ/A+frT6t8VxNa+PgLl0utuecNsyDLMBD7UTMm\nDJ1Z04NCs0HMasz2Qf9b2NpaNRnRCOcAbV0JC2RAo3HhY12Qp7GJgyWoblW4P4bH\nH9EYhfLWovfQNKXHqqS0YexZ2QKBgQDI+vjMMRhYEkP6pxQqo32WtfVROVxdVyXr\nVtGBYNtr54Hekf7mSopQ7vWv/txssWo4mYSvtZW7agVY3iNDFN1qobUSLI1NiaoS\nYfhgJnpO0Si1WPaUj77Z22dAIppvqZFfKfgbi5IBTufXecta2qpoT/aK1ONjDuay\ndgnzaufeTwKBgQDkUG1ZTS72jgpRCIC8H/WVjakImZnP/pEuC2/vtzV1g9zTEm6j\n8/MuhiN61fv73nHmpNLjF9htgGrmAR+0B9hfGHJ7YXtg/+VqmXakMYK/YGTyQP7a\n9PhOUFlBpiUjohqPpK2PA5JyHiwOx8aPlC17BcP5EcB8GCDiknVFWO0zqQKBgELi\nUr4RcJqOqZTW2X0/H2Jyd4tqXXSqtfHV2K8Hvr3wM2YQjBWzpMg+XgEN/ekmOcVQ\nQbn/4i6Wn+TtOCrw3KbJ3eqIbRXqxHCNrgzBgV6NeNCxJI5YMBlsTLYpTd/vPHPB\nEdKI5jQNQFaTL7uynZdNVSzqoCmtIdUuNy2M3FE9AoGAdHoUEkuzOat/tY4yJt5q\nd823vYFSLLY1nyTmrfxZJ9rqEfUmRWDR/bTIYdVLH36Or/3x225uUDIiezLrptR0\nFSR3nDTPkR4XTgk90UhKsZ/mWyHdhFbYAs85jihdp3L3R9+7WZGJL+ocoeMPc+nN\nGHVV1trB6jL+MsBVKl2lsL4=\n-----END PRIVATE KEY-----\n",
+  "client_email": "absensi-les-privat@local-scope-390206.iam.gserviceaccount.com",
+  "client_id": "102863907143518616523",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/absensi-les-privat%40local-scope-390206.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
